@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou João Carmo 👋
 
-<!--
-**carmo12/carmo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na FIAP  
+🔌 Técnico em IoT pelo SENAC  
+💻 Interessado em desenvolvimento de software, dados, IA e IoT
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+C • C++ • Python • Java • JavaScript • Swift
+
+### Desenvolvimento Web
+HTML • CSS • React • Node.js
+
+### Banco de Dados
+SQL • MySQL • Supabase
+
+### Dados e Inteligência Artificial
+Pandas • Scikit-learn • Matplotlib
+
+### IoT
+Arduino • Internet of Things
+
+### Ferramentas
+Git • GitHub • Figma
+
+## 📌 Projetos
+
+- Projetos acadêmicos de desenvolvimento web
+- Projetos com Python e análise de dados
+- Projetos com SQL e bancos de dados
+- Projetos de IoT e Arduino
