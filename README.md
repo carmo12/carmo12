@@ -1,4 +1,4 @@
-# Olá! Eu sou João Carmo 👋
+# Olá! Eu sou João Carmo
 
 🎓 Estudante de Ciência da Computação na FIAP  
 🔌 Técnico em IoT pelo SENAC  
