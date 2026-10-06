@@ -13,7 +13,7 @@ integração de sistemas e desenvolvimento de soluções tecnológicas.
 C • C++ • Python • JavaScript • Swift • SQL
 
 ### Desenvolvimento Web
-HTML • CSS • React • Node.js
+HTML • CSS • React 
 
 ### Banco de Dados
 SQL • MySQL • Supabase
