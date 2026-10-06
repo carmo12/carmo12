@@ -10,7 +10,7 @@ integração de sistemas e desenvolvimento de soluções tecnológicas.
 ## 🚀 Tecnologias
 
 ### Linguagens
-C • C++ • Python • Java • JavaScript • Swift • SQL
+C • C++ • Python • JavaScript • Swift • SQL
 
 ### Desenvolvimento Web
 HTML • CSS • React • Node.js
