@@ -31,7 +31,7 @@ n8n • Automação de processos • APIs • Integração de sistemas • Webho
 Arduino • Internet of Things
 
 ### Ferramentas
-Git • GitHub • VS Code • Figma
+Git • GitHub • VS Code 
 
 ## 🤖 IA & Automação
 
